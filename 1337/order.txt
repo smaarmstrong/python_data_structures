@@ -1,0 +1,5 @@
+1. read problem.txt
+2. read default.py
+3. record every attempt_x.py
+4. compare attempt_x.py to solution.py
+5. add, commit, and push at the end of the session
