@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# this is the least efficient O case in terms of
+# O(n^2) is the least efficient O case in terms of
 # time and space complexity
 
 def print_items(n):
