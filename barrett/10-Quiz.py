@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+# What is big O, Omega, and Theta in the context of programming? Provide a real world example of them.
+
+# What is time complexity? 
+
+# What is space complexity?
+
 # What is the second worst O case? Write an example of it.
 
 # How can we simplify O(2n)? Write an example of O(2n).
