@@ -15,5 +15,5 @@
 # Big O is also your worst case scenario when executing a code,
 # e.g. starting from the beginning of a list to find the end number.
 
-# Omega is the best case
-# Theta is the average case
+# Omega is the best case (find at the beginning of the list)
+# Theta is the average case (find in the middle of the list)
